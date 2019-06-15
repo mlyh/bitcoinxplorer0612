@@ -71,7 +71,7 @@ response:
 |    difficulty|   Double |  难度系数 |
 |    fees|   Double |  交易费用 |
 |    height|   Integer |  区块高度 |
-|    merkleRoot|   String |  梅尔克树 |
+|    merkleRoot|   String |  默克尔树 |
 |    prevBlcok|   String | 前一个区块 |
 |    nextBlock|   String |  后一个区块 |
 |    size|   Integer |  区块大小 |
@@ -111,7 +111,7 @@ response:
 |    height|   Integer |  区块高度 |
 |    prevBlcok|   String | 前一个区块 |
 |    nextBlock|   String |  后一个区块 |
-|    merkleRoot|   String |  梅尔克树 |
+|    merkleRoot|   String |  默克尔 |
 |    time|   Long |  出块时间 |
 |    txSize|   Short |  交易数量 |
 |    size|   Integer |  区块大小 |
@@ -147,7 +147,7 @@ response:
 |    difficulty|   Double |  难度系数 |
 |    fees|   Double |  交易费用 |
 |    height|   Integer |  区块高度 |
-|    merkleRoot|   String |  梅尔克树 |
+|    merkleRoot|   String |  默克尔树 |
 |    prevBlcok|   String | 前一个区块 |
 |    nextBlock|   String |  后一个区块 |
 |    size|   Integer |  区块大小 |
@@ -183,7 +183,7 @@ response:
 |    difficulty|   Double |  难度系数 |
 |    fees|   Double |  交易费用 |
 |    height|   Integer |  区块高度 |
-|    merkleRoot|   String |  梅尔克树 |
+|    merkleRoot|   String |  默克尔树 |
 |    prevBlcok|   String | 前一个区块 |
 |    nextBlock|   String |  后一个区块 |
 |    size|   Integer |  区块大小 |
