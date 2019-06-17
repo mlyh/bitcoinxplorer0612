@@ -26,8 +26,6 @@ public class TempController {
         //JSONObject b = bitcoinRestApi.getBlockhashByHeight("000000000000003b90c4e88fdf15c1394ab945f41978cafa445d8ee1ef63525b");
         //JSONObject b = bitcoinRestApi.getMempoolInfo("000000000000003b90c4e88fdf15c1394ab945f41978cafa445d8ee1ef63525b");
         JSONObject b = bitcoinRestApi.getMempoolContents();
-
-
         return b.toJSONString();
     }
 
